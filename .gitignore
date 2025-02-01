@@ -1,0 +1,10 @@
+bin/
+include/
+lib/
+pyvenv.cfg
+share/
+.ropeproject/
+__pycache__/
+.DS_Store
+annotations.txt
+COINS/
