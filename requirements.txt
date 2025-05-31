@@ -1,2 +1,5 @@
+# for training
 spacy
 tqdm
+# for api
+word2number

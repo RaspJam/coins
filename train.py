@@ -1,4 +1,4 @@
-from src.file import annotation_to_data, SUPPORTED_LABELS
+from annotation import annotation_to_data, SUPPORTED_LABELS
 from pathlib import Path
 import spacy
 from spacy.training.example import Example
